@@ -51,9 +51,9 @@ Career difficulty distribution
 Work-life and salary happiness metrics
 
 # 📷 Dashboard Preview
-![Alt text](https://github.com/itayh2/Project-Overiew-Dashboard/blob/main/Dashboard.png)
+![Alt text](https://github.com/itayh2/Data_Professional_Survey_Breakdown/blob/main/Dashboard%20-%20Survey%20Breakdown.png)
 
-[🔗 View the Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDFmNzQ5NzItMTZhOC00NTM1LWI0YTgtZTEwZTdjMTBiZTRjIiwidCI6ImMwODhmN2IxLTExNTEtNGRhOS1iNTExLTU3NzE4MThlZWI3ZSIsImMiOjF9)
+[🔗 View the Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2EzNWQ3ZjItYWU2OS00NWRkLWIzMTItYWFkMzU0MTY2MzgyIiwidCI6ImMwODhmN2IxLTExNTEtNGRhOS1iNTExLTU3NzE4MThlZWI3ZSIsImMiOjF9)
 
 
 🛠️ Tools Used
