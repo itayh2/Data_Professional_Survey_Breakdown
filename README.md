@@ -50,16 +50,14 @@ Career difficulty distribution
 
 Work-life and salary happiness metrics
 
-# 📷 Dashboard Preview
-![Alt text](https://github.com/itayh2/Data_Professional_Survey_Breakdown/blob/main/Dashboard%20-%20Survey%20Breakdown.png)
-
-[🔗 View the Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2EzNWQ3ZjItYWU2OS00NWRkLWIzMTItYWFkMzU0MTY2MzgyIiwidCI6ImMwODhmN2IxLTExNTEtNGRhOS1iNTExLTU3NzE4MThlZWI3ZSIsImMiOjF9)
-
-
-🛠️ Tools Used
+# 🛠️ Tools Used
 Power BI – for data modeling, visualization, and dashboard creation
 
 Excel / CSV – as the source format for survey responses
 
 Data transformation – using Power Query and DAX formulas
 
+# 📷 Dashboard Preview
+![Alt text](https://github.com/itayh2/Data_Professional_Survey_Breakdown/blob/main/Dashboard%20-%20Survey%20Breakdown.png)
+
+[🔗 View the Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2EzNWQ3ZjItYWU2OS00NWRkLWIzMTItYWFkMzU0MTY2MzgyIiwidCI6ImMwODhmN2IxLTExNTEtNGRhOS1iNTExLTU3NzE4MThlZWI3ZSIsImMiOjF9)
