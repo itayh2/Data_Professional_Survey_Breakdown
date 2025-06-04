@@ -1,53 +1,65 @@
-# Data_Professional_Survey_Breakdown
+# 💼 Data Professional Survey Dashboard
+Your expertise as a data analyst is key to unlocking insights from this global survey of data professionals. This dashboard was built to help us:
 
-📊 Data Professional Survey Breakdown Dashboard
-This interactive dashboard presents insights from a global survey of 630 data professionals, focusing on demographics, job roles, salary ranges, programming preferences, and perceptions of work-life balance.
+**Understand the data landscape of tech professionals**
+**Analyze job market trends and salary expectations**
+**Measure satisfaction and challenges in the data field**
 
-🔍 Key Insights
-Top Represented Countries: Canada, India, United Kingdom, United States, and Others.
+# ❓ Key Business Questions
+What is the average salary by job title in the data profession?
 
-Most Common Job Titles:
+What countries are most represented in the survey?
 
-Data Scientist (highest average salary), Data Engineer, Data Architect, Data Analyst, Student/Looking for a Job
+What are the favorite programming languages by role?
 
-Average Age of Respondents: 29.87 years
+How difficult is it to break into the data field?
 
-Work-Life Balance Satisfaction Score: 5.74 / 10
+How satisfied are data professionals with their work-life balance and salary?
 
-Salary Satisfaction Score: 4.27 / 10
+# 🧩 Project Requirements
+## 1. 📊 Survey Analysis
+Organize and visualize responses from 630 participants to uncover insights across:
 
-Programming Language Preference:
+🌍 Country representation
 
-Python is by far the most preferred language.
+💼 Job titles and average salaries
 
-R, C/C++, JavaScript, and Java follow at much lower rates.
+🖥️ Programming language preferences
 
-📈 Difficulty Breaking Into Data
-Survey respondents reported mixed experiences:
+📈 Perceived career difficulty
 
-43%: Neither easy nor difficult
+😊 Job satisfaction levels
 
-25%: Difficult
+## 2. 🧹 Data Cleaning & Structuring
+Ensure accurate, report-ready data by integrating and cleaning:
 
-21%: Easy
+Respondent demographic information
 
-7%: Very difficult
+Job roles and compensation data
 
-4%: Very easy
+Subjective ratings (difficulty, satisfaction, etc.)
+
+## 3. 📊 Power BI Dashboard Development
+An interactive Power BI dashboard was developed to visualize:
+
+Salary by job title
+
+Popular languages in data roles
+
+Career difficulty distribution
+
+Work-life and salary happiness metrics
+
+# 📷 Dashboard Preview
+![Alt text](https://github.com/itayh2/Project-Overiew-Dashboard/blob/main/Dashboard.png)
+
+[🔗 View the Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDFmNzQ5NzItMTZhOC00NTM1LWI0YTgtZTEwZTdjMTBiZTRjIiwidCI6ImMwODhmN2IxLTExNTEtNGRhOS1iNTExLTU3NzE4MThlZWI3ZSIsImMiOjF9)
+
 
 🛠️ Tools Used
-Power BI: For data modeling, visualization, and dashboard design.
+Power BI – for data modeling, visualization, and dashboard creation
 
-Survey Data: Cleaned and transformed for analysis.
+Excel / CSV – as the source format for survey responses
 
-💡 Purpose of the Dashboard
-This dashboard aims to:
+Data transformation – using Power Query and DAX formulas
 
-Understand the landscape of data careers globally.
-
-Provide visibility into how professionals perceive their work environment.
-
-Help aspiring data professionals understand common challenges and expectations.
-
-[Dashboard Preview](https://app.powerbi.com/view?r=eyJrIjoiY2EzNWQ3ZjItYWU2OS00NWRkLWIzMTItYWFkMzU0MTY2MzgyIiwidCI6ImMwODhmN2IxLTExNTEtNGRhOS1iNTExLTU3NzE4MThlZWI3ZSIsImMiOjF9
-)
